@@ -10,6 +10,6 @@ class ListItem extends Component {
             </CardSection>
         )
     }
-}
+};
 
 export default ListItem;
